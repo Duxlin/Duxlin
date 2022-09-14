@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr.Kanambo
+- 👋 Hi, I’m Duxlin
 - 👀 I’m interested in programming, hacking, mobile development, cyber security, networking, web design
 - 🌱 I’m currently learning programming and networking
 - 💞️ I’m looking to collaborate on ... hacking, programming, mobile app development and cyber security
